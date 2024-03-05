@@ -3,7 +3,7 @@
 ## the project will complete the list:
 
 - [x] two-player game
-- [ ] single game
+- [x] single game
 - [ ] the GUI
 
 ## two-player game
@@ -16,6 +16,6 @@
 
 - [x] easy_mode: randomly choose a position
 - [x] medium_mode: intercept the position which the player would win
-- [ ] hard_mode: attempts to win first, then blocks the player to win
+- [x] hard_mode: attempts to win first, then blocks the player to win
 
 ## the GUI
