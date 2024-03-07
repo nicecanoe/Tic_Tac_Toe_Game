@@ -4,7 +4,7 @@
 
 - [x] two-player game
 - [x] single game
-- [ ] the GUI
+- [x] the GUI
 
 ## two-player game
 
@@ -19,3 +19,7 @@
 - [x] hard_mode: attempts to win first, then blocks the player to win
 
 ## the GUI
+
+- [x] easy_mode:
+- [x] medium_mode:
+- [x] hard_mode
